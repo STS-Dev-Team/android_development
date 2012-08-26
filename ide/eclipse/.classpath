@@ -61,6 +61,8 @@
 	<classpathentry kind="src" path="frameworks/ex/common/java"/>
 	<classpathentry kind="src" path="frameworks/ex/variablespeed/src"/>
 	<classpathentry kind="src" path="frameworks/opt/calendar/src"/>
+	<classpathentry kind="src" path="frameworks/opt/telephony/src/java"/>
+	<classpathentry kind="src" path="frameworks/opt/mms/src/java"/>
 	<classpathentry kind="src" path="frameworks/opt/vcard/java"/>
 	<classpathentry kind="src" path="frameworks/support/v13/java"/>
 	<classpathentry kind="src" path="frameworks/support/v13/ics"/>
@@ -87,6 +89,7 @@
 	<classpathentry kind="src" path="out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/voip/java"/>
 	<classpathentry kind="src" path="out/target/common/obj/JAVA_LIBRARIES/framework_intermediates/src/wifi/java"/>
 	<classpathentry kind="src" path="out/target/common/obj/JAVA_LIBRARIES/services_intermediates/src"/>
+	<classpathentry kind="src" path="out/target/common/obj/JAVA_LIBRARIES/telephony-common_intermediates/src/src/java"/>
 	<classpathentry kind="src" path="out/target/common/R"/>
 	<classpathentry kind="src" path="external/apache-http/src"/>
 	<classpathentry kind="src" path="external/bouncycastle/src/main/java"/>
